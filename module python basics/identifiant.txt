@@ -1,0 +1,12 @@
+Speech to Text
+5b0vzYT45j2Y1IW1IMykItCA5iz_3-tEPIHvYtd80A_p
+https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/8c625ce4-5c36-444e-a9fc-a81b2af7030c
+
+Language Translator-ne
+A82uJ_xI93U0hdSaIsPcmJ4LqaGZgjlH1naT-tRSwCcM
+https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/1746d384-e596-4c86-9f2a-7b9f25b1813b
+
+https://s3-api.us-geo.objectstorage.softlayer.net/python-basics-mct/MJ1.csv?AWSAccessKeyId=f09ddbbf295b49c18d0354b0b79938e1&Signature=JJ%2FC1FOR9rI2EuLwZ%2FyNhvTPxGo%3D&Expires=1592830655
+
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f0b0766f-e3b2-4a98-929b-82d5c1851571/view?access_token=21f018782e0f60353b3fae0fc8280b6346e57356c26ec2426b95d52a7074e230
